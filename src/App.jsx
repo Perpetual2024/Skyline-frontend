@@ -1,8 +1,11 @@
-import './App.css'
+import Navbar from "./skyline/components/Navbar"
 
 function App() {
 
-  return 
+  return (
+    < Navbar />
+  )
+
 }
 
 export default App
