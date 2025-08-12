@@ -1,9 +1,14 @@
-import Navbar from "./skyline/components/Navbar"
+
+import HomePage from "./skyline/pages/HomePage";
+
 
 function App() {
 
   return (
-    < Navbar />
+    <>
+    <HomePage />
+    </>
+  
   )
 
 }
